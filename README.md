@@ -4,22 +4,32 @@
 
 
 ## EE332 数字系统设计
+Lab: [Gralerfics/SUSTech-EE332-Digital-System-Design-Laboratory](https://github.com/Gralerfics/SUSTech-EE332-Digital-System-Designing-Laboratory)
+
 Project: [Gralerfics/FmcPGA](https://github.com/Gralerfics/FmcPGA)
+
+![](./imgs/FmcPGA.jpg)
 
 
 
 ## EE201-17L 模拟电路实验
 Project: [Gralerfics/ZeptoWatch](https://github.com/Gralerfics/ZeptoWatch)
 
+![](./imgs/ZeptoWatch.png)
+
 
 
 ## CS305 计算机网络
 Project (Temporarily private): [Gralerfics/http_file_manager](https://github.com/Gralerfics/http_file_manager)
 
+![](./imgs/http_file_manager.png)
+
 
 
 ## CS102A 计算机程序设计基础 A (Java)
 Project: [Gralerfics/OthellooO](https://github.com/Gralerfics/OthellooO)
+
+![](./imgs/OthellooO.png)
 
 
 
@@ -35,6 +45,13 @@ Lab & Project: [Gralerfics/SUSTech-EE211-Robotic-Perception-and-Intelligence-Lab
 
 ## EE323 数字信号处理
 Mini Project: [Gralerfics/Simple-Music-Synthesizer](https://github.com/Gralerfics/Simple-Music-Synthesizer)
+
+
+
+## EE326 数字图像处理
+Lab: [Gralerfics/SUSTech-EE326-Digital-Image-Processing-Laboratory](https://github.com/Gralerfics/SUSTech-EE326-Digital-Image-Processing-Laboratory)
+
+Lab: [Gralerfics/SUSTech-EE326-Digital-Image-Processing-Project](https://github.com/Gralerfics/SUSTech-EE326-Digital-Image-Processing-Project)
 
 
 
@@ -56,9 +73,13 @@ Tool: [Gralerfics/Signal-Processing-Assistant](https://github.com/Gralerfics/Sig
 
 
 ## EE317 电子科学创新实验 I
-Project 1: [Gralerfics/Gralculator](https://github.com/Gralerfics/Gralculator)
+Android Project 1: [Gralerfics/Gralculator](https://github.com/Gralerfics/Gralculator)
 
-Project 2: [Gralerfics/Gralayer](https://github.com/Gralerfics/Gralayer)
+Android Project 2: [Gralerfics/Gralayer](https://github.com/Gralerfics/Gralayer)
+
+STM32 Project Template: [STM32F103VET6-StdPeriph-Driver-Template-For-CLion](https://github.com/Gralerfics/STM32F103VET6-StdPeriph-Driver-Template-For-CLion)
+
+STM32 Encapsulation (Deserted): [Gralerfics/STM32-Simple-Abstraction-Layer](https://github.com/Gralerfics/STM32-Simple-Abstraction-Layer)
 
 
 
