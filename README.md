@@ -20,7 +20,7 @@ Project: [Gralerfics/ZeptoWatch](https://github.com/Gralerfics/ZeptoWatch)
 
 
 ## CS305 计算机网络
-Project (Temporarily private): [Gralerfics/http_file_manager](https://github.com/Gralerfics/http_file_manager)
+Project: [Gralerfics/http_file_manager](https://github.com/Gralerfics/http_file_manager)
 
 ![](./imgs/http_file_manager.png)
 
